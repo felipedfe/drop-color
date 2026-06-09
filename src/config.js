@@ -1,5 +1,5 @@
-export const GAME_WIDTH = 480;
-export const GAME_HEIGHT = 750;
+export const GAME_WIDTH = 540;
+export const GAME_HEIGHT = 960;
 
 export const Events = {
   // Scene navigation
